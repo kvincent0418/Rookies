@@ -97,6 +97,13 @@ p {
   .logo {
     width: 75%;
   }
+  nav {
+    padding: 60px 0;
+  }
+  nav ul li a {
+    padding: 30px;
+    font-size: 30px;
+  }
 }
 
 /* Desktop Computer View*/
